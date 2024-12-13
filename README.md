@@ -4,8 +4,7 @@
 
 - <b>Full Stack Networking Associate (Full Stack Network Engineer)</b>
   - [Technical areas of comprehension - Routing, Switching, Security, Voice over IP, Wireless](https://github.com/Mac-Jackson/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Mac-Jackson/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Mac-Jackson/ticket-lifecycle)
+ 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mac-Jackson/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Mac-Jackson/azure-network-protocols)
