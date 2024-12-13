@@ -3,11 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Full Stack Network Associate (Technical areas of comprehension)</b>
-  - [Routing](https://github.com/Mac-Jackson/FSNA)
-  - [Switching](https://github.com/Mac-Jackson/FSNA)
-  - [Security](https://github.com/Mac-Jackson/FSNA)
-  - [Voice over IP](https://github.com/Mac-Jackson/FSNA)
-  - [Wireless](https://github.com/Mac-Jackson/FSNA)
+  - [Routing](https://github.com/Mac-Jackson/FSNA-Routing)
+  - [Switching](https://github.com/Mac-Jackson/FSNA-Switching)
+  - [Security](https://github.com/Mac-Jackson/FSNA-Security)
+  - [Voice Over IP](https://github.com/Mac-Jackson/FSNA-Voice)
+  - [Wireless](https://github.com/Mac-Jackson/FSNA-Wireless)
+  - [Final Project Configuration](https://github.com/Mac-Jackson/FSNA-Final)
+   
   
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
