@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Full Stack Networking Associate (Full Stack Network Engineer)</b>
-  - [Technical areas of comprehension - Routing, Switching, Security, Voice over IP, Wireless](https://github.com/Mac-Jackson/osticket-prereqs)
+  - [Technical areas of comprehension - Routing, Switching, Security, Voice over IP, Wireless](https://github.com/Mac-Jackson/Technical areas of comprehension - Routing, Switching, Security, Voice over IP, Wireless)
  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Mac-Jackson/configure-ad)
