@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Full Stack Network Associate (Full Stack Network Engineer)</b>
-  - [Technical areas of comprehension - Routing, Switching, Security, Voice over IP, Wireless](https://github.com/Mac-Jackson/FSNA)
+- <b>Full Stack Network Associate (Technical areas of comprehension)</b>
+  - [Routing](https://github.com/Mac-Jackson/FSNA)
+  - [Switching](https://github.com/Mac-Jackson/FSNA)
+  - [Security](https://github.com/Mac-Jackson/FSNA)
+  - [Voice over IP](https://github.com/Mac-Jackson/FSNA)
+  - [Wireless](https://github.com/Mac-Jackson/FSNA)
   
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
