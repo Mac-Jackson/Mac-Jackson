@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Full Stack Networking Project (Full Stack Network Engineer)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mac-Jackson/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Mac-Jackson/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Mac-Jackson/ticket-lifecycle)
