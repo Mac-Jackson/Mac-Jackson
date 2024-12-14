@@ -12,7 +12,7 @@
    
   
 - <b>Cisco Packet Tracer</b>
-  - [Installing Cisco Packet Tracer](https://github.com/Mac-Jackson/configure-ad)
+  - [Installing Cisco Packet Tracer](https://github.com/Mac-Jackson/Cisco.PKT)
   
 
 <h2>🤳Connect with me:</h2>
