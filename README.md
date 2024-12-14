@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Full Stack Network Associate (Technical areas of comprehension)</b>
+- <b>Full Stack Network Associate (Technical Areas of Comprehension)</b>
   - [Switching](https://github.com/Mac-Jackson/FSNA-Switching)
   - [Routing](https://github.com/Mac-Jackson/FSNA-Routing)
   - [Security](https://github.com/Mac-Jackson/FSNA-Security)
