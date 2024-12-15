@@ -1,8 +1,10 @@
 <h1>Hi, I'm Ma'chir (Mac) Jackson, an <a href="https://linkedin.com/in/machir-jackson">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects: FSNA</h2>
 
-- <b>Full Stack Network Associate (Technical Areas of Comprehension)</b>
+- <b>Full Stack Network Associate - 
+ I am part of the Full Stack Network Associate (FSNA) program, which is specifically designed to help individuals like me kickstart and advance their IT careers. This program focuses on a hands-on approach, combining technical education with career mentorship. It equips participants with essential foundational concepts and practical skills required to excel as netrwork engineers in todays's enyerprise environments.
+- Foundational Technical Skills in Enterprise Networking</b>
   - [Switching](https://github.com/Mac-Jackson/FSNA-Switching)
   - [Routing](https://github.com/Mac-Jackson/FSNA-Routing)
   - [Security](https://github.com/Mac-Jackson/FSNA-Security)
