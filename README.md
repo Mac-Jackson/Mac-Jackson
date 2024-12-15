@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects: FSNA</h2>
 
-- <b>Full Stack Network Associate - 
- I am part of the Full Stack Network Associate (FSNA) program, which is specifically designed to help individuals like me kickstart and advance their IT careers. This program focuses on a hands-on approach, combining technical education with career mentorship. It equips participants with essential foundational concepts and practical skills required to excel as netrwork engineers in todays's enyerprise environments.
+- <b>FULL STACK NETWORK ASSOCIATE - 
+ I am part of the Full Stack Network Associate (FSNA) program, which is specifically designed to help individuals like me kickstart and advance their IT careers. This program focuses on a hands-on approach, combining technical education with career mentorship. It equips participants with essential foundational concepts and practical skills required to excel as network engineers in todays's enterprise environments.
 - Foundational Technical Skills in Enterprise Networking</b>
   - [Switching](https://github.com/Mac-Jackson/FSNA-Switching)
   - [Routing](https://github.com/Mac-Jackson/FSNA-Routing)
