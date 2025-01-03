@@ -18,10 +18,10 @@
 - <b>Cisco Packet Tracer</b>
   - [Installing Cisco Packet Tracer](https://github.com/Mac-Jackson/Cisco.PKT)
  
-- <b>FULL STACK NETWORK PROFESSIONAL - 
- I am part of the Full Stack Network Associate (FSNA) program, specifically designed to help individuals like me kickstart and advance their IT careers. This program focuses on a hands-on approach, combining technical education with career mentorship. It equips participants with essential foundational concepts and practical skills required to excel as network engineers in today's enterprise environments.
+- <b>FULL STACK NETWORK PROJECT - 
+ The Full Stack Network Project is designed to provide an understanding of a complete HQ/Branch network and the project build-out process. I learned how to plan, design, and implement my own Full Stack Network with a headquarters location and two branch offices.
 
-   - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNA-Final)
+   - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNP-Final)
   
 
 <h2>🤳Connect with me:</h2>
