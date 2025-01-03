@@ -24,7 +24,7 @@
    - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNP-Project)
 
 - Foundational Technical Skills in Enterprise Networking</b>
-  - [Switching](https://github.com/Mac-Jackson/FSNA-Switching)
+  - [Deployment](https://github.com/Mac-Jackson/FSNP-Deploy)
   
 
 <h2>🤳Connect with me:</h2>
