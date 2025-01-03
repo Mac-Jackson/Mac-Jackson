@@ -23,7 +23,7 @@
 
    - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNP-Project)
 
-- Foundational Technical Skills in Enterprise Networking</b>
+- Skills Qualification Check</b>
   - [Deployment](https://github.com/Mac-Jackson/FSNP-Deploy)
   - [Configuration](https://github.com/Mac-Jackson/FSNP-Config)
   - [Troubleshooting](https://github.com/Mac-Jackson/FSNP-Troubleshoot)
