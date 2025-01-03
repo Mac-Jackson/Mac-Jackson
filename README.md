@@ -26,7 +26,7 @@
 - Foundational Technical Skills in Enterprise Networking</b>
   - [Deployment](https://github.com/Mac-Jackson/FSNP-Deploy)
   - [Configuration](https://github.com/Mac-Jackson/FSNP-Config)
-  - [Troubleshooting](https://github.com/Mac-Jackson/FSNP-Deploy)
+  - [Troubleshooting](https://github.com/Mac-Jackson/FSNP-Troubleshoot)
 
 <h2>🤳Connect with me:</h2>
 
