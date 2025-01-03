@@ -3,9 +3,10 @@
 <h2>👨‍💻 Information Technology Projects: FSNA, FSNP</h2>
 
 - <b>FULL STACK NETWORK ASSOCIATE - 
- I am part of the Full Stack Network Associate (FSNA) program, which is specifically designed to help individuals like me kickstart and advance their IT careers. This program focuses on a hands-on approach, combining technical education with career mentorship. It equips participants with essential foundational concepts and practical skills required to excel as network engineers in today's enterprise environments.
+ I am part of the Full Stack Network Associate (FSNA) program, specifically designed to help individuals like me kickstart and advance their IT careers. This program focuses on a hands-on approach, combining technical education with career mentorship. It equips participants with essential foundational concepts and practical skills required to excel as network engineers in today's enterprise environments.
    - [Final FSNA Project Configuration](https://github.com/Mac-Jackson/FSNA-Final)
-   - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNA-Final)
+ 
+
 - Foundational Technical Skills in Enterprise Networking</b>
   - [Switching](https://github.com/Mac-Jackson/FSNA-Switching)
   - [Routing](https://github.com/Mac-Jackson/FSNA-Routing)
@@ -16,6 +17,11 @@
   
 - <b>Cisco Packet Tracer</b>
   - [Installing Cisco Packet Tracer](https://github.com/Mac-Jackson/Cisco.PKT)
+ 
+- <b>FULL STACK NETWORK PROFESSIONAL - 
+ I am part of the Full Stack Network Associate (FSNA) program, specifically designed to help individuals like me kickstart and advance their IT careers. This program focuses on a hands-on approach, combining technical education with career mentorship. It equips participants with essential foundational concepts and practical skills required to excel as network engineers in today's enterprise environments.
+
+   - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNA-Final)
   
 
 <h2>🤳Connect with me:</h2>
