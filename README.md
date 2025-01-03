@@ -21,7 +21,7 @@
 - <b>FULL STACK NETWORK PROJECT - 
  The Full Stack Network Project is designed to provide an understanding of a complete HQ/Branch network and the project build-out process. I learned how to plan, design, and implement my own Full Stack Network with a headquarters location and two branch offices.
 
-   - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNP-Final) 
+   - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNP-Project) 
   
 
 <h2>🤳Connect with me:</h2>
