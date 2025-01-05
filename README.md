@@ -37,7 +37,7 @@
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/Mac-Jackson/AD-Create) 
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/Mac-Jackson/os-Pre)
-  -  [osTicket: Post Installation Configuration](https://github.com/Mac-Jackson/osTicket-Post-Installation-Configuration)
+  -  [osTicket: Post Installation Configuration](https://github.com/Mac-Jackson/os-Post) 
   -  [osTicket: Creating and Working Tickets](https://github.com/Mac-Jackson/osTicket-Creating-and-Working-Tickets)
 
 <h2>🤳Connect with me:</h2>
