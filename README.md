@@ -29,7 +29,7 @@
   - [Troubleshooting](https://github.com/Mac-Jackson/FSNP-Troubleshoot)
  
 - Microsoft Azure
-  -  [Monitoring Network Traffic with Azure VMs](https://github.com/Mac-Jackson/AzureCompute-Netowrking)
+  -  [Monitoring Network Traffic with Azure VMs](https://github.com/Mac-Jackson/Azure-VM-s)
   -  [Setup and Use a VPN in Azure](https://github.com/Mac-Jackson/How-to-Setup-and-Use-a-VPN-within-Azure)
 - Active Directory
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/Mac-Jackson/Preparing-Active-Directory-Infrastructure-in-Azure)
