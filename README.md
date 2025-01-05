@@ -38,7 +38,7 @@
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/Mac-Jackson/os-Pre)
   -  [osTicket: Post Installation Configuration](https://github.com/Mac-Jackson/os-Post) 
-  -  [osTicket: Creating and Working Tickets](https://github.com/Mac-Jackson/osTicket-Creating-and-Working-Tickets)
+  -  [osTicket: Creating and Working Tickets](https://github.com/Mac-Jackson/os-Create) 
 
 <h2>🤳Connect with me:</h2>
 
