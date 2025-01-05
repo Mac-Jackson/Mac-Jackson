@@ -33,7 +33,7 @@
   -  [Setup and Use a VPN in Azure](https://github.com/Mac-Jackson/VPN-in-Azure) 
 - Active Directory
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/Mac-Jackson/Preparing-AD-Prep) 
-  - [Active Directory: Deploying Active Directory in Azure](https://github.com/Mac-Jackson/Active-Directory-Deploying-Active-Directory)
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com/Mac-Jackson/AD-Deploy) 
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/Mac-Jackson/Active-Directory-Creating-Users-Group-Policy-and-Managing-Accounts)
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/Mac-Jackson/osTicket-Prerequisites-and-Installation)
