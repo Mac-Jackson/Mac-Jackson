@@ -19,7 +19,7 @@
   - [Installing Cisco Packet Tracer](https://github.com/Mac-Jackson/Cisco.PKT)
  
 - <b>FULL STACK NETWORK PROJECT - 
- The Full Stack Network Project is designed to provide an understanding of a complete HQ/Branch network and the project build-out process. I learned how to plan, design, and implement my own Full Stack Network with a headquarters location and two branch office project.
+ The Full Stack Network Project is designed to provide an understanding of a complete HQ/Branch network and the project build-out process. I learned how to plan, design, and implement my own Full Stack Network with a headquarters location and two branch office projects.
 
    - [Final FSNP Project Configuration](https://github.com/Mac-Jackson/FSNP-Project)
 
@@ -32,7 +32,7 @@
   -  [Monitoring Network Traffic with Azure VMs](https://github.com/Mac-Jackson/Azure-VM-s)
   -  [Setup and Use a VPN in Azure](https://github.com/Mac-Jackson/VPN-in-Azure) 
 - Active Directory
-  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/Mac-Jackson/Preparing-AD-Prep) 
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/Mac-Jackson/AD-Prep) 
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/Mac-Jackson/AD-Deploy) 
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/Mac-Jackson/AD-Create) 
 - osTicket (Help Desk Ticketing System)
